@@ -5,4 +5,4 @@ if __name__ == "__main__":
     for i in range(0, len(argv)):
         if i > 0:
             add += int(argv[i])
-            print("{:d}".format(add))
+    print("{:d}".format(add))
